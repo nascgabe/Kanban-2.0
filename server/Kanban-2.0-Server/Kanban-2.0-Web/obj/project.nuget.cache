@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "dQ+KK7xbHgcIEPqwVZxS6dEzAYr3CbhHjdFt9aJuC7dCIDvzakSmyHdDdKfIXbyBqWJ1Uq+TS2x0HWzi6MB0Xw==",
+  "success": true,
+  "projectFilePath": "C:\\dev\\Kanban-2.0\\server\\Kanban-2.0-Server\\Kanban-2.0-Web\\Kanban-2.0-Web.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\adm\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.17.2\\microsoft.visualstudio.azure.containers.tools.targets.1.17.2.nupkg.sha512"
+  ],
+  "logs": []
+}
